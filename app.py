@@ -48,7 +48,7 @@ def handle_mentions(event,client, say):
     client.reactions_add(
         channel=event["channel"],
         name="robot_face",
-        timestamp=event["ts"]   
+        timestamp=event["ts"]
     )
 # Start your app
 if __name__ == "__main__":
