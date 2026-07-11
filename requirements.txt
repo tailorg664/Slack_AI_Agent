@@ -1,2 +1,3 @@
 slack-bolt
 google-genai
+python-dotenv
